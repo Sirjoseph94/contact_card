@@ -22,7 +22,7 @@ code {
 }
 a{
   text-decoration: none;
-  text-color: #374151;
+  color: #374151;
 }
 .header{
   background-color: #1A1B21;
@@ -87,9 +87,7 @@ a{
     font-weight: 500;
       font-size: 14px;
       line-height: 16px;
-    color: #374151;
-  
-
+   
   
     /* white */
   
