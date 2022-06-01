@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/contact_card/static/css/main.25731b1c.css",
-    "main.js": "/github.io/contact_card/static/js/main.e3bfba75.js",
-    "static/js/787.d5aa4ebb.chunk.js": "/github.io/contact_card/static/js/787.d5aa4ebb.chunk.js",
-    "static/media/jo.png": "/github.io/contact_card/static/media/jo.6827c50f0b35b544d53e.png",
-    "index.html": "/github.io/contact_card/index.html",
-    "main.25731b1c.css.map": "/github.io/contact_card/static/css/main.25731b1c.css.map",
-    "main.e3bfba75.js.map": "/github.io/contact_card/static/js/main.e3bfba75.js.map",
-    "787.d5aa4ebb.chunk.js.map": "/github.io/contact_card/static/js/787.d5aa4ebb.chunk.js.map"
+    "main.css": "/contact_card/static/css/main.25731b1c.css",
+    "main.js": "/contact_card/static/js/main.5868c9a3.js",
+    "static/js/787.d5aa4ebb.chunk.js": "/contact_card/static/js/787.d5aa4ebb.chunk.js",
+    "static/media/jo.png": "/contact_card/static/media/jo.6827c50f0b35b544d53e.png",
+    "index.html": "/contact_card/index.html",
+    "main.25731b1c.css.map": "/contact_card/static/css/main.25731b1c.css.map",
+    "main.5868c9a3.js.map": "/contact_card/static/js/main.5868c9a3.js.map",
+    "787.d5aa4ebb.chunk.js.map": "/contact_card/static/js/787.d5aa4ebb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25731b1c.css",
-    "static/js/main.e3bfba75.js"
+    "static/js/main.5868c9a3.js"
   ]
 }
