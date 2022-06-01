@@ -1,7 +1,7 @@
 import fa from '../image/fa.png'
 import git from '../image/git.png'
 import insta from '../image/insta.png'
-import twitter from '../image/twitter.png'
+// import twitter from '../image/twitter.png'
 import linkedin from '../image/linkedin.png'
 
 const Footer = () => {

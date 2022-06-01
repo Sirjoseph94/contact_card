@@ -4,7 +4,7 @@ const About = () => {
             <h1>Joseph Ero</h1>
             <h2>Software Engineer</h2>
             <span>Decagon Institute</span>
-            <a href='#' className='email'>Email</a>
+            <button className='email'>Email</button>
             <h3>About</h3>
             <p>I am a Fullstack developer 
                 with a particular interest

@@ -3,8 +3,7 @@ import jo from '../image/jo.png';
 const Header = ()=>{
     return(
         <div className='header'>
-            <img src={jo} alt='Jo photo'></img>
-            
+            <img src={jo} alt='Jo'></img>
         </div>
     )
 }
